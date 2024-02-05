@@ -6,8 +6,8 @@
 ## Installation
 
 ```bash
-conda create -y -n copyright-llm python=3.10 
-conda activate copyright-llm
+conda create -y -n ambiguity-llm python=3.10 
+conda activate ambiguity-llm
 
 pip install torch --index-url https://download.pytorch.org/whl/cu118
 pip install -r requirements.txt
