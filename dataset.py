@@ -46,7 +46,7 @@ class AmbiguityDataset(Dataset):
 
     def get_prompts(self, amb_sent: InputExample) -> List[str]:
         prompt_b = (
-                f"Is the following sentence a pun? Reply only with yes or no. The sentence is: {amb_sent.sentence}\n\n"
+                f"Is the following sentence ambiguous? Reply only with yes or no. The sentence is: {amb_sent.sentence}\n\n"
         )
         return [prompt_b]
 
