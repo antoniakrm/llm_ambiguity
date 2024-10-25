@@ -1,5 +1,5 @@
 import pandas as pd
-from sklearn.metrics import accuracy_score
+from sklearn.metrics import accuracy_score, f1_score, classification_report
 import argparse
 import numpy as np
 
@@ -30,6 +30,9 @@ def main(results_csv_path):
     accuracy = accuracy_score(df_results['ambig_status'], df_results['binary'])
 
     print(f"\nAccuracy Score: {accuracy:.2%}")
+
+    target_names = ['non-ambig', 'ambiguous']
+    print(classification_report(df_results['ambig_status'], df_results['binary'], target_names=target_names))
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Calculate accuracy score from results CSV file.')
