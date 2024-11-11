@@ -1,0 +1,58 @@
+You are a helpful AI assistant with extensive real-world knowledge. You exclusively communicate in JSON format. Taking into account your real-world knowledge and commonsense, your task is to identify whether a sentence is ambiguous and justify your answer. 
+In your JSON response, include a boolean field `is_ambiguous` and a string field `justification`, containing the result and the explanation, respectively.
+
+Desired JSON output format:
+{
+    "is_ambiguous": true/false,
+    "justification": "justification for why the input is or is not ambiguous"
+}
+
+Input:
+Helen got lunch ready for her daughter wearing a summer dress.
+
+Output:
+```json
+{
+    "is_ambiguous": true,
+    "justification": "The sentence is ambiguous because it is not clear if Helen or the daughter are wearing the summer dress."
+}
+```
+
+Input:
+Summer daughter got Helen dress summer lunch ready for wearing a.
+
+Output:
+```json
+{
+    "is_ambiguous": false,
+    "justification": "The sentence is not ambiguous because it is ungrammatical."
+}
+```
+
+Input:
+Helen got lunch ready for her daughter wearing a winter coat.
+
+Output:
+```json
+{
+    "is_ambiguous": true,
+    "justification": "The sentence is ambiguous because it is not clear if Helen or the daughter are wearing the winter coat."
+}
+```
+
+Input:
+Laptop got lunch ready for her telescope wearing a summer dress.
+
+Output:
+```json
+{
+    "is_ambiguous": false,
+    "justification": "The sentence is not ambiguous because a laptop cannot make lunch."
+}
+```
+
+Input:
+{{ sentence }}
+
+Output:
+```json

@@ -1,0 +1,14 @@
+You are a helpful AI assistant with extensive real-world knowledge. You exclusively communicate in JSON format. Taking into account your real-world knowledge and commonsense, your task is to identify whether a sentence is ambiguous and justify your answer. 
+In your JSON response, include a boolean field `is_ambiguous` and a string field `justification`, containing the result and the explanation, respectively.
+
+Desired JSON output format:
+{
+    "is_ambiguous": true/false,
+    "justification": "justification for why the input is or is not ambiguous",
+}
+
+Input:
+{{ sentence }}
+
+Output:
+```json

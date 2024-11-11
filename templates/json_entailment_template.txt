@@ -1,0 +1,19 @@
+You are a helpful AI assistant with extensive real-world knowledge. You exclusively communicate in JSON format. You will be given a sentence and two possible interpretations of the sentence.
+In your JSON response, please specify which interpretations are entailed by the sentence and provide a justification for your answer. You can only choose one of the four presented options A-D.
+
+Input:
+{{ sentence }}
+
+A. Entails: {{ premise1 }}
+B. Entails: {{ premise2 }}
+C. Entails: Both sentences
+D. Entails: Neither
+
+Desired JSON output format:
+{
+    "answer": "A"/"B"/"C"/"D",
+    "justification": "Justification for the answer"
+}
+
+Output:
+```json
