@@ -1,0 +1,1105 @@
+sentence	change_type	is_extral_ambiguous
+The man saw the woman with the telescope.	original	1
+The woman saw the man with the telescope.	inverse_object	1
+Man with the saw telescope woman the with.	impossible	0
+The man saw the woman with the microscope.	pp_synonym	1
+The man saw the woman with the monoscope.	pp_synonym	1
+The man saw the woman with the spyglass.	pp_synonym	1
+The man saw the woman with the binoculars.	pp_synonym	1
+The man saw the woman with the camera.	pp_synonym	1
+The man saw the woman with the phone.	pp_synonym	1
+The man saw the woman with the polaroid.	pp_synonym	1
+The man saw the woman with the glasses.	pp_synonym	1
+The man saw the woman with the eyepiece.	pp_synonym	1
+The man saw the woman with the monocular.	pp_synonym	1
+The man saw the woman with the dress.	pp_random	0
+The man saw the woman with the book.	pp_random	0
+The man saw the woman with the desk.	pp_random	0
+The man saw the woman with the curtains.	pp_random	0
+The man saw the woman with the box.	pp_random	0
+The man saw the woman with the present.	pp_random	0
+The man saw the woman with the dophin.	pp_random	0
+The man saw the woman with the suitcase.	pp_random	0
+The man saw the woman with the gyroscope.	pp_random_rhyme	0
+The man saw the woman with the horoscope.	pp_random_rhyme	0
+The scientist saw the woman with the telescope.	subj_synonym	1
+The guy saw the woman with the telescope.	subj_synonym	1
+John saw the woman with the telescope.	subj_synonym	1
+Alex saw the woman with the telescope	subj_synonym	1
+Mary saw the woman with the telescope.	subj_synonym	1
+Jenny saw the woman with the telescope.	subj_synonym	1
+The nurse saw the woman with the telescope.	subj_synonym	1
+The detective saw the woman with the telescope.	subj_synonym	1
+The child saw the woman with the telescope.	subj_synonym	1
+The student saw the woman with the telescope.	subj_synonym	1
+The teacher saw the woman with the telescope.	subj_synonym	1
+The woman saw the woman with the telescope.	subj_synonym	1
+The girl saw the woman with the telescope.	subj_synonym	1
+The boy saw the woman with the telescope.	subj_synonym	1
+The mother saw the woman with the telescope.	subj_synonym	1
+The father saw the woman with the telescope.	subj_synonym	1
+The artist saw the woman with the telescope.	subj_synonym	1
+The explorer saw the woman with the telescope.	subj_synonym	1
+The king saw the woman with the telescope.	subj_synonym	1
+The queen saw the woman with the telescope.	subj_synonym	1
+The weather saw the woman with the telescope.	subj_random	0
+The window saw the woman with the telescope.	subj_random	0
+The ocean saw the woman with the telescope.	subj_random	0
+The alike saw the woman with the telescope.	subj_random	0
+The plant saw the woman with the telescope.	subj_random	0
+The break saw the woman with the telescope.	subj_random	0
+The vase saw the woman with the telescope.	subj_random	0
+The blue saw the woman with the telescope.	subj_random	0
+The orange saw the woman with the telescope.	subj_random	0
+The telescope saw the man with the woman.	subj_random	0
+The glass saw the woman with the telescope.	subj_random	0
+The mug saw the woman with the telescope.	subj_random	0
+The popcorn saw the woman with the telescope.	subj_random	0
+The newspaper saw the woman with the telescope.	subj_random	0
+The chair saw the woman with the telescope.	subj_random	0
+The can saw the woman with the telescope.	subj_random_rhyme	0
+The ran saw the woman with the telescope.	subj_random_rhyme	0
+The tan saw the woman with the telescope.	subj_random_rhyme	0
+The van saw the woman with the telescope.	subj_random_rhyme	0
+The pan saw the woman with the telescope.	subj_random_rhyme	0
+The man saw the student with the telescope.	obj_synonym	1
+The man saw the guy with the telescope.	obj_synonym	1
+The man saw John with the telescope.	obj_synonym	1
+The man saw Alex with the telescope.	obj_synonym	1
+The man saw Mary with the telescope.	obj_synonym	1
+The man saw Jenny with the telescope.	obj_synonym	1
+The man saw the nurse with the telescope.	obj_synonym	1
+The man saw the detective with the telescope.	obj_synonym	1
+The man saw the scientist with the telescope.	obj_synonym	1
+The man saw the child with the telescope.	obj_synonym	1
+The man saw the teacher with the telescope.	obj_synonym	1
+The man saw the man with the telescope.	obj_synonym	1
+The man saw the girl with the telescope.	obj_synonym	1
+The man saw the boy with the telescope.	obj_synonym	1
+The man saw the mother with the telescope.	obj_synonym	1
+The man saw the father with the telescope.	obj_synonym	1
+The man saw the king with the telescope.	obj_synonym	1
+The man saw the queen with the telescope.	obj_synonym	1
+The man saw the artist with the telescope.	obj_synonym	1
+The man saw the explorer with the telescope.	obj_synonym	1
+The man saw the mountain with the telescope.	obj_random	0
+The man saw the ocean with the telescope.	obj_random	0
+The man saw the city with the telescope.	obj_random	0
+The man saw the beer with the telescope.	obj_random	0
+The man saw the ruins with the telescope.	obj_random	0
+The man saw the rain with the telescope.	obj_random	0
+The man saw the weather with the telescope.	obj_random	0
+The man saw the hello with the telescope.	obj_random	0
+The man saw the bee with the telescope.	obj_random	0
+The man saw the popcorn with the telescope.	obj_random	0
+The man saw the diamond with the telescope.	obj_random	0
+The man saw the happy with the telescope.	obj_random	0
+The man saw the metal with the telescope.	obj_random	0
+The man saw the orange with the telescope.	obj_random	0
+The man saw the hair with the telescope.	obj_random	0
+The man saw the linen with the telescope.	obj_random_rhyme	0
+The man saw the kitchen with the telescope.	obj_random_rhyme	0
+The man saw the listen with the telescope.	obj_random_rhyme	0
+The man saw the given with the telescope.	obj_random_rhyme	0
+The man saw the smitten with the telescope.	obj_random_rhyme	0
+The boy saw the girl with the telescope.	all_synonym	1
+The artist saw the king with the binoculars.	all_synonym	1
+The teacher saw the student with the phone.	all_synonym	1
+Alex saw Jenny with the camera.	all_synonym	1
+John saw Mary with the spyglass.	all_synonym	1
+Jenny saw Alex with the camera.	all_synonym	1
+The king saw the queen with the telescope.	all_synonym	1
+The scientist saw the artist with the telescope.	all_synonym	1
+The biologist saw the student with the telescope.	all_synonym	1
+The chemist saw the student with the microscope.	all_synonym	1
+The hunter saw the queen with the binoculars.	all_synonym	1
+The boy saw the girl with the telescope.	all_synonym	1
+The girl saw the queen with the camera.	all_synonym	1
+The girl saw the boy with the camera.	all_synonym	1
+The detective saw the king with the spyglass.	all_synonym	1
+The boy saw the detective with the spyglass.	all_synonym	1
+The student saw the teacher with the phone.	all_synonym	1
+The boy saw the detective with the monoscope.	all_synonym	1
+The boy saw the girl with the glasses.	all_synonym	1
+Alex saw the king with the glasses.	all_synonym	1
+Alex saw the telescope with the king.	all_random	0
+The boy saw the girl with the dress.	all_random	0
+The woman saw the boy with the car.	all_random	0
+The telescope saw the girl with the dress.	all_random	0
+The telescope saw the dog with the house.	all_random	0
+The chemist saw the telescope with the girl.	all_random	0
+The hunter saw the detective with the gloves.	all_random	0
+The telescope saw the astronaut with the present.	all_random	0
+The girl saw the queen with the box.	all_random	0
+The artist saw the house with the curtains.	all_random	0
+The boy saw the telescope with the keys.	all_random	0
+The man saw the telescope with the suitcase.	all_random	0
+The queen saw the king with the bracelet.	all_random	0
+The woman saw the scientist with the book.	all_random	0
+The man saw the student with the suitcase.	all_random	0
+The can saw the linen with the telescope.	all_random_rhyme	0
+The man saw the linen with the gyroscope.	all_random_rhyme	0
+The tan saw the kitchen with the telescope.	all_random_rhyme	0
+The van saw the linen with the telescope.	all_random_rhyme	0
+The man saw the given with the horoscope.	all_random_rhyme	0
+She fed her cat food.	original	1
+She fed her cat food.	inverse_object	1
+Cat fed her he food.	impossible	0
+She fed her cat food.	subj_synonym	1
+The girl fed her cat food.	subj_synonym	1
+The woman fed her cat food.	subj_synonym	1
+The mother fed her cat food.	subj_synonym	1
+Mary fed her cat food.	subj_synonym	1
+Amalie fed her cat food.	subj_synonym	1
+The nurse fed her cat food.	subj_synonym	1
+The singer fed her cat food.	subj_synonym	1
+The detective fed her cat food.	subj_synonym	1
+The child fed her cat food.	subj_synonym	1
+The scientist fed her cat food.	subj_synonym	1
+The teacher fed her cat food.	subj_synonym	1
+The student fed her cat food.	subj_synonym	1
+The astronaut fed her cat food.	subj_synonym	1
+The hero fed her cat food.	subj_synonym	1
+Jodephine fed her cat food.	subj_synonym	1
+Helen fed her cat food.	subj_synonym	1
+The teen fed her cat food.	subj_synonym	1
+The mother fed her cat food.	subj_synonym	1
+The artist fed her cat food.	subj_synonym	1
+The rainbow fed her cat food.	subj_random	0
+The pillow fed her cat food.	subj_random	0
+The notes fed her cat food.	subj_random	0
+The garden fed her cat food.	subj_random	0
+The keys fed her cat food.	subj_random	0
+The telescope fed her cat food.	subj_random	0
+The laptop fed her cat food.	subj_random	0
+The keys fed her cat food.	subj_random	0
+The green fed her cat food.	subj_random	0
+The glass fed her cat food.	subj_random	0
+The elephant fed her cat food.	subj_random	0
+The banana fed her cat food.	subj_random	0
+The window fed her cat food.	subj_random	0
+The door fed her cat food.	subj_random	0
+The table fed her cat food.	subj_random	0
+Tree fed her cat food.	subj_random_rhyme	0
+Sea break fed her cat food.	subj_random_rhyme	0
+See orange fed her cat food.	subj_random_rhyme	0
+Thee fed her cat food.	subj_random_rhyme	0
+Bee fed her cat food.	subj_random_rhyme	0
+She fed her rat food.	obj_synonym	1
+She fed her dog food.	obj_synonym	1
+She fed her horse food.	obj_synonym	1
+She fed her fish food.	obj_synonym	1
+She fed her duck food.	obj_synonym	1
+She fed her pig food.	obj_synonym	1
+She fed her rabbit food.	obj_synonym	1
+She fed her chicken food.	obj_synonym	1
+She fed her kitten food.	obj_synonym	1
+She fed her puppy food.	obj_synonym	1
+She fed her hen food.	obj_synonym	1
+She fed her monkey food.	obj_synonym	1
+She fed her turtle food.	obj_synonym	1
+She fed her parrot food.	obj_synonym	1
+She fed her bird food.	obj_synonym	1
+She fed her hamster food.	obj_synonym	1
+She fed her ferret food.	obj_synonym	1
+She fed her lizard food.	obj_synonym	1
+She fed her puppy food.	obj_synonym	1
+She fed her snake food.	obj_synonym	1
+She fed him cat food.	obj_random	0
+She fed her chinese food.	obj_random	0
+She fed her house food.	obj_random	0
+She fed her telescope food.	obj_random	0
+She fed her keys food.	obj_random	0
+She fed her tail food.	obj_random	0
+She fed her galaxy food.	obj_random	0
+She fed her glass food.	obj_random	0
+She fed her gold food.	obj_random	0
+She fed her slow food.	obj_random	0
+She fed her fast food.	obj_random	0
+She fed her thai food.	obj_random	0
+She fed her good food.	obj_random	0
+She fed her whiskers food.	obj_random	0
+She fed her paw food.	obj_random	0
+She fed her mat food.	obj_random_rhyme	0
+She fed her cat stood.	obj_random_rhyme	0
+She fed her hat food.	obj_random_rhyme	0
+She fed her bat mood.	obj_random_rhyme	0
+She fed her cat brood.	obj_random_rhyme	0
+Helen fed her dog food.	all_synonym	1
+Mary fed her dog food.	all_synonym	1
+Anna fed her rabbit food.	all_synonym	1
+Mary fed her rabbit food.	all_synonym	1
+Josephine fed her rabbit food.	all_synonym	1
+The queen fed her rabbit food.	all_synonym	1
+The queen fed her dog food.	all_synonym	1
+The artist fed her duck food.	all_synonym	1
+The queen fed her rabbit food.	all_synonym	1
+The queen fed her turtle food.	all_synonym	1
+The queen fed her hamster food.	all_synonym	1
+The lady fed her rabbit food.	all_synonym	1
+The mother fed her rabbit food.	all_synonym	1
+The mother fed her dog food.	all_synonym	1
+The woman fed her dog food.	all_synonym	1
+The woman fed her hamster food.	all_synonym	1
+The princess fed her duck food.	all_synonym	1
+The princess fed her dog food.	all_synonym	1
+The princess fed her rabbit food.	all_synonym	1
+The artist fed her rabbit food.	all_synonym	1
+The artist fed his rabbit food.	all_random	0
+The scientist fed his dog food.	all_random	0
+The father fed his hamster food.	all_random	0
+The scientist fed his duck food.	all_random	0
+The telescope fed his telescope food.	all_random	0
+The scientist fed his rat food.	all_random	0
+The king fed his snake food.	all_random	0
+The prince fed his telescope food.	all_random	0
+The artist fed his rat food.	all_random	0
+The man fed his dog food.	all_random	0
+The doctor fed his turtle food.	all_random	0
+Mary fed her chinese food.	all_random	0
+Josephine fed her chinese food.	all_random	0
+Tom fed her chinese food.	all_random	0
+Mary fed her telescope food.	all_random	0
+Tree fed her hat food.	all_random_rhyme	0
+Sea break fed her cat mood.	all_random_rhyme	0
+See orange fed her vat stood.	all_random_rhyme	0
+Thee fed her rat brood.	all_random_rhyme	0
+Bee fed her fat food.	all_random_rhyme	0
+Harry loves his pet turtle more than his wife.	original	1
+His pet turtle loves Harry more than his wife.	inverse_object	1
+Turtle pet than more loves Harry his wife his.	impossible	0
+Harry loves his pet turtle more than his son.	pp_synonym	1
+Harry loves his pet turtle more than his daughter.	pp_synonym	1
+Harry loves his turtle more than his mother.	pp_synonym	1
+Harry loves his pet turtle more than his neighbour.	pp_synonym	1
+Harry loves his pet turtle more than his husband.	pp_synonym	1
+Harry loves his pet turtle more than his student.	pp_synonym	1
+Harry loves his pet turtle more than his father.	pp_synonym	1
+Harry loves his pet turtle more than his partner.	pp_synonym	1
+Harry loves his pet turtle more than his friend.	pp_synonym	1
+Harry loves his pet turtle more than his spouse.	pp_synonym	1
+Harry loves his pet turtle more than his keys.	pp_random	0
+Harry loves his pet turtle more than his tv.	pp_random	0
+Harry loves his turtle more than his globe.	pp_random	0
+Harry loves his pet turtle more than his water.	pp_random	0
+Harry loves his pet turtle more than his life.	pp_random	0
+Harry loves his pet turtle more than his yellow.	pp_random	0
+Harry loves his pet turtle more than his hat.	pp_random	0
+Harry loves his pet turtle more than his telescope.	pp_random	0
+Harry loves his pet turtle more than his dress.	pp_random	0
+Harry loves his pet turtle more than his watch.	pp_random	0
+John loves his pet turtle more than his wife.	subj_synonym	1
+Bill loves his pet turtle more than his wife.	subj_synonym	1
+Thomas loves his pet turtle more than his wife.	subj_synonym	1
+Marry loves her pet turtle more than her wife.	subj_synonym	1
+Dad loves his pet turtle more than his wife.	subj_synonym	1
+The scientist loves his pet turtle more than his wife.	subj_synonym	1
+The smart loves his pet turtle more than his wife.	subj_synonym	1
+The fool loves his pet turtle more than his wife.	subj_synonym	1
+The doctor loves his pet turtle more than his wife.	subj_synonym	1
+Tom loves his pet turtle more than his wife.	subj_synonym	1
+Stephan loves his pet turtle more than his wife.	subj_synonym	1
+The man loves his pet turtle more than his wife.	subj_synonym	1
+The husband loves his pet turtle more than his wife.	subj_synonym	1
+The king loves his pet turtle more than his wife.	subj_synonym	1
+The guy loves his pet turtle more than his wife.	subj_synonym	1
+Helen loves her pet turtle more than her wife.	subj_synonym	1
+The queen loves her pet turtle more than her wife.	subj_synonym	1
+The teacher loves his pet turtle more than his wife.	subj_synonym	1
+The detective loves his pet turtle more than his wife.	subj_synonym	1
+The astronaut loves his pet turtle more than his wife.	subj_synonym	1
+The telescope loves his pet turtle more than his wife.	subj_random	0
+The car loves his pet turtle more than his wife.	subj_random	0
+The box loves his pet turtle more than his wife.	subj_random	0
+The labyrinth loves his pet turtle more than his wife.	subj_random	0
+The wall loves his pet turtle more than his wife.	subj_random	0
+The desk loves his pet turtle more than his wife.	subj_random	0
+The dress loves his pet turtle more than his wife.	subj_random	0
+The car loves his pet turtle more than his wife.	subj_random	0
+The waterfall loves his pet turtle more than his wife.	subj_random	0
+The nebula loves his pet turtle more than his wife.	subj_random	0
+The pineapple loves his pet turtle more than his wife.	subj_random	0
+The zephyr loves his pet turtle more than his wife.	subj_random	0
+The umbrella loves his pet turtle more than his wife.	subj_random	0
+The symphony loves his pet turtle more than his wife.	subj_random	0
+The canyon loves his pet turtle more than his wife.	subj_random	0
+Vary loves his pet turtle more than his wife.	subj_random_rhyme	0
+Dairy loves his pet turtle more than his wife.	subj_random_rhyme	0
+Curry loves his pet turtle more than his wife.	subj_random_rhyme	0
+Hairy loves his pet turtle more than his wife.	subj_random_rhyme	0
+Merry loves his pet turtle more than his wife.	subj_random_rhyme	0
+Harry loves his pet tortoise more than his wife.	obj_synonym	1
+Harry loves his pet terrapin more than his wife.	obj_synonym	1
+Harry loves his chelonian pet more than his wife.	obj_synonym	1
+Harry loves his chelonian companion more than his wife.	obj_synonym	1
+Harry loves his dog more than his wife.	obj_synonym	1
+Harry loves his goat more than his wife.	obj_synonym	1
+Harry loves his ferret more than his wife.	obj_synonym	1
+Harry loves his horse more than his wife.	obj_synonym	1
+Harry loves his cat more than his wife.	obj_synonym	1
+Harry loves his rabbit more than his wife.	obj_synonym	1
+Harry loves his parrot more than his wife.	obj_synonym	1
+Harry loves his hamster more than his wife.	obj_synonym	1
+Harry loves his fish more than his wife.	obj_synonym	1
+Harry loves his bird more than his wife.	obj_synonym	1
+Harry loves his lizard more than his wife.	obj_synonym	1
+Harry loves his snake more than his wife.	obj_synonym	1
+Harry loves his guinea pig more than his wife.	obj_synonym	1
+Harry loves his turtle more than his wife.	obj_synonym	1
+Harry loves his chinchilla more than his wife.	obj_synonym	1
+Harry loves his hedgehog more than his wife.	obj_synonym	1
+Harry loves his radiantly more than his wife.	obj_random	0
+Harry loves his sparklingly more than his wife.	obj_random	0
+Harry loves his fluffily more than his wife.	obj_random	0
+Harry loves his turquoise more than his wife.	obj_random	0
+Harry loves his pink more than his wife.	obj_random	0
+Harry loves his yellow more than his wife.	obj_random	0
+Harry loves his blue more than his wife.	obj_random	0
+Harry loves his red more than his wife.	obj_random	0
+Harry loves his noteworthy more than his wife.	obj_random	0
+Harry loves random more than his wife.	obj_random	0
+Harry loves happy more than his wife.	obj_random	0
+Harry loves sad more than his wife.	obj_random	0
+Harry loves excited more than his wife.	obj_random	0
+Harry loves nervous more than his wife.	obj_random	0
+Harry loves grateful more than his wife.	obj_random	0
+Harry loves his debt hurdle more than his wife.	obj_random_rhyme	0
+Harry loves his bet curdle more than his wife.	obj_random_rhyme	0
+Harry loves his vet purple more than his wife.	obj_random_rhyme	0
+Harry loves his net hurdle more than his wife.	obj_random_rhyme	0
+Harry loves his set curdle more than his wife.	obj_random_rhyme	0
+Helen loves her pet turtle more than her husband.	all_synonym	1
+Antonia loves her pet turtle more than her husband.	all_synonym	1
+Rose loves her pet turtle more than her husband.	all_synonym	1
+My cousin loves her pet turtle more than her husband.	all_synonym	1
+Mom loves her pet turtle more than her husband.	all_synonym	1
+John loves her pet turtle more than his husband.	all_synonym	1
+Mom loves her pet turtle more than her husband.	all_synonym	1
+The scientist loves her pet turtle more than her husband.	all_synonym	1
+He loves his pet dog more than his sister.	all_synonym	1
+The nurse loves her pet turtle more than her husband.	all_synonym	1
+Tom loves his pet turtle more than his husband.	all_synonym	1
+The king loves his pet cat more than his sister.	all_synonym	1
+The man loves his pet tortoise more than his brother.	all_synonym	1
+Constanza loves her pet dog more than her mother.	all_synonym	1
+She loves her pet turtle more than her husband.	all_synonym	1
+The artist loves her pet turtle more than her husband.	all_synonym	1
+The student loves her pet turtle more than her teacher.	all_synonym	1
+She loves her pet hamster more than her partner.	all_synonym	1
+The scientist loves his watch more than his wife.	all_synonym	1
+The scientist loves his telescope more than his wife.	all_synonym	1
+The computer loves his telescope more than his wife.	all_random	0
+The scientist loves his green more than his wife.	all_random	0
+The telescope loves his pet turtle more than his husband.	all_random	0
+The queen loves her pet turtle more than her dress.	all_random	0
+Harry loves his pet dog more than his laptop.	all_random	0
+Bob loves his pet telescope more than his laptop.	all_random	0
+She loves her pet turtle more than her telescope.	all_random	0
+The doctor loves his camera more than his watch.	all_random	0
+Harry loves his telescope more than his telescope.	all_random	0
+Tim loves happy more than his horse.	all_random	0
+The lamp loves his pet turtle more than the radio.	all_random	0
+The nurse loves her pet cat more than her laptop.	all_random	0
+John loves his pet cat more than his telescope.	all_random	0
+George loves his pet cat more than his telescope.	all_random	0
+Oscar loves his pet elephant more than his telescope.	all_random	0
+Harry loves his pet hurdle more than his life.	all_random_rhyme	0
+Larry loves his pet burtle more than his wife.	all_random_rhyme	0
+Curry loves his net turtle more than his wife.	all_random_rhyme	0
+Merry loves his vet turtle more than his life.	all_random_rhyme	0
+Harry loves his bet turtle more than his rife.	all_random_rhyme	0
+The captain ordered the old men and women of the ship.	original	1
+The old men ordered the captain and women of the ship	inverse_object	0
+Of the ship ordered captain and the old men and women	impossible	0
+The captain ordered the old men and women of the boat	pp_synonym	1
+The captain ordered the old men and women of the phone	pp_synonym	1
+The captain ordered the old men and women of the road	pp_synonym	1
+The captain ordered the old men and women of the table	pp_synonym	1
+The captain ordered the old men and women of the hook	pp_synonym	1
+The captain ordered the old men and women of the country	pp_synonym	1
+The captain ordered the old men and women of the cruiseship	pp_synonym	1
+The captain ordered the old men and women of the room	pp_synonym	1
+The captain ordered the old men and women of the vessel	pp_synonym	1
+The captain ordered the old men and women of the watercraft	pp_synonym	1
+The captain ordered the old men and women of the white	pp_random	0
+The captain ordered the old men and women of the happy	pp_random	0
+The captain ordered the old men and women of the green	pp_random	0
+The captain ordered the old men and women of the pleasant	pp_random	0
+The captain ordered the old men and women of the fully	pp_random	0
+The captain ordered the old men and women of the small	pp_random	0
+The captain ordered the old men and women of the willingly	pp_random	0
+The captain ordered the old men and women of the drastically	pp_random	0
+The captain ordered the old men and women of the rip	pp_random_rhyme	0
+The captain ordered the old men and women of the flip	pp_random_rhyme	0
+The soldier ordered the old men and women of the boat	subj_synonym	1
+The skipper ordered the old men and women of the boat	subj_synonym	1
+The commander ordered the old men and women of the boat	subj_synonym	1
+The leader ordered the old men and women of the boat	subj_synonym	1
+The driver ordered the old men and women of the boat	subj_synonym	1
+The chieftain ordered the old men and women of the boat	subj_synonym	1
+The pilot ordered the old men and women of the boat	subj_synonym	1
+The sailor ordered the old men and women of the boat	subj_synonym	1
+The guy ordered the old men and women of the boat	subj_synonym	1
+The crew member ordered the old men and women of the boat	subj_synonym	1
+The seaman ordered the old men and women of the boat	subj_synonym	1
+The seafarer ordered the old men and women of the boat	subj_synonym	1
+The mariner ordered the old men and women of the boat	subj_synonym	1
+The yachtsman ordered the old men and women of the boat	subj_synonym	1
+The yachtswoman ordered the old men and women of the boat	subj_synonym	1
+The pirate ordered the old men and women of the boat	subj_synonym	1
+The sea dog ordered the old men and women of the boat	subj_synonym	1
+The magister navis ordered the old men and women of the boat	subj_synonym	1
+The shipmaster ordered the old men and women of the boat	subj_synonym	1
+The admiral ordered the old men and women of the boat	subj_synonym	1
+The potato ordered the old men and women of the boat.	subj_random	0
+The bicycle ordered the old men and women of the boat.	subj_random	0
+The pineapple ordered the old men and women of the boat.	subj_random	0
+The cloud ordered the old men and women of the boat.	subj_random	0
+The giraffe ordered the old men and women of the boat.	subj_random	0
+The pillow ordered the old men and women of the boat.	subj_random	0
+The hat ordered the old men and women of the boat.	subj_random	0
+The dolphin ordered the old men and women of the boat.	subj_random	0
+The cactus ordered the old men and women of the boat.	subj_random	0
+The rainbow ordered the old men and women of the boat.	subj_random	0
+The teapot ordered the old men and women of the boat	subj_random	0
+The telescope ordered the old men and women of the boat	subj_random	0
+The mailbox ordered the old men and women of the boat	subj_random	0
+The snowflake ordered the old men and women of the boat	subj_random	0
+The elephant ordered the old men and women of the boat	subj_random	0
+The latin ordered the old men and women of the boat	subj_random_rhyme	0
+The satin ordered the old men and women of the boat	subj_random_rhyme	0
+The flatten ordered the old men and women of the boat	subj_random_rhyme	0
+The gratin ordered the old men and women of the boat	subj_random_rhyme	0
+The pattern ordered the old men and women of the boat	subj_random_rhyme	0
+The captain ordered the old males and women of the ship	obj_synonym	1
+The captain ordered the old men and ladies of the ship	obj_synonym	1
+The captain ordered the old males and females of the ship	obj_synonym	1
+The captain ordered the old kings and queens of the ship	obj_synonym	1
+The captain ordered the old guys and girls of the ship	obj_synonym	1
+The captain ordered the old people and child of the ship	obj_synonym	0
+The captain ordered the old fathers and mothers of the ship	obj_synonym	1
+The captain ordered the old boys and girls of the ship	obj_synonym	1
+The captain ordered the old candles and pots of the ship	obj_synonym	1
+The captain ordered the old horses and sheep of the ship	obj_synonym	1
+The captain ordered the old bats and rats of the ship	obj_synonym	1
+The captain ordered the old tables and chairs of the ship	obj_synonym	1
+The captain ordered the old dogs and cats of the ship	obj_synonym	1
+The captain ordered the old monkeys and horses of the ship	obj_synonym	1
+The captain ordered the old cows and sheep of the ship	obj_synonym	1
+The captain ordered the old plants and food of the ship	obj_synonym	1
+The captain ordered the old cheese and milk of the ship	obj_synonym	1
+The captain ordered the old apples and oranges of the ship	obj_synonym	1
+The captain ordered the old drinks and water of the ship	obj_synonym	1
+The captain ordered the old clothes and armors of the ship	obj_synonym	1
+The captain ordered the old very and pink of the ship	obj_random	0
+The captain ordered the old really and very of the ship	obj_random	0
+The captain ordered the old plural and single of the ship	obj_random	0
+The captain ordered the old then and amen of the ship	obj_random	0
+The captain ordered the old yen and given of the ship	obj_random	0
+The captain ordered the old looks and hers of the ship	obj_random	0
+The captain ordered the old you and bear of the ship	obj_random	0
+The captain ordered the old shallow and eat of the ship	obj_random	0
+The captain ordered the old hear and bend of the ship	obj_random	0
+The captain ordered the old open and glassy of the ship	obj_random	0
+The captain ordered the old sizzling and enigmatic of the ship. The captain ordered the old radiant and metallic of the ship. The captain ordered the old bustling and serpentine of the ship. The captain ordered the old elusive and cosmic of the ship. The captain ordered the old shimmering and crystalline of the ship.	obj_random	0
+The captain ordered the old eccentric and leafy of the ship.	obj_random	0
+The captain ordered the old telescope and telescope of the ship.	obj_random	0
+The captain ordered the old elusive and cosmic of the ship.	obj_random	0
+The captain ordered the old shimmering and crystalline of the ship.	obj_random	0
+The captain ordered the old pen and linen of the ship.	obj_random_rhyme	0
+The captain ordered the old ten and kitchen of the ship.	obj_random_rhyme	0
+The captain ordered the old zen and listen of the ship.	obj_random_rhyme	0
+The captain ordered the old when and given of the ship.	obj_random_rhyme	0
+The captain ordered the old hen and smitten of the ship.	obj_random_rhyme	0
+The skipper ordered the old males and females of the ship	all_synonym	1
+The soldier ordered the old fathers and mothers of the country	all_synonym	1
+John ordered the old males and females of the road	all_synonym	1
+The soldier ordered the old fathers and mothers of the ship	all_synonym	1
+The skipper ordered the old men and women of the boat	all_synonym	1
+The commander ordered the old men and women of the boat	all_synonym	1
+The leader ordered the old men and women of the boat	all_synonym	1
+The driver ordered the old men and women of the boat	all_synonym	1
+The chieftain ordered the old kings and queens of the boat	all_synonym	1
+The pilot ordered the old men and women of the road	all_synonym	1
+The sailor ordered the old men and women of the vessel	all_synonym	1
+The guy ordered the old men and women of the cruise	all_synonym	1
+The crew member ordered the old men and women of the table	all_synonym	1
+The sea dog ordered the old men and women of the boat	all_synonym	1
+The magister navis ordered the old fathers and mothers of the ship	all_synonym	1
+The shipmaster ordered the old cats and dog of the boat	all_synonym	1
+The admiral ordered the old men and women of the boat	all_synonym	1
+The magister navis ordered the old fathers and mothers of the ship	all_synonym	1
+The shipmaster ordered the old cats and dog of the boat	all_synonym	1
+The admiral ordered the old men and women of the boat	all_synonym	1
+The giraffe ordered the old hello and you of the boat	all_random	0
+The pillow ordered the old ducks and very of the space	all_random	0
+The hat ordered the old men and women of the boat.	all_random	0
+The dolphin ordered the old men and women of the boat.	all_random	0
+The cactus ordered the old happy and women of the boat.	all_random	0
+The captain ordered the old men and women of the willingly	all_random	0
+The captain ordered the old green and women of the drastically	all_random	0
+The captain ordered the old men and women of the hungry	all_random	0
+The captain ordered the old men and women of the fully	all_random	0
+The captain ordered the old looks and hers of the goofy	all_random	0
+The captain ordered the old you and bear of the purple	all_random	0
+The captain ordered the old shallow and eat of the ship	all_random	0
+The captain ordered the old hear and bend of the telescope	all_random	0
+The captain ordered the old open and glassy of the ship	all_random	0
+The captain ordered the old sizzling and enigmatic of the ship. The captain ordered the old radiant and metallic of the ship. The captain ordered the old bustling and serpentine of the ship. The captain ordered the old elusive and cosmic of the ship. The captain ordered the old shimmering and crystalline of the ship.	all_random	0
+The listen ordered the old zen and listen of the ship.	all_random_rhyme	0
+The satin ordered the old men and women of the flip.	all_random_rhyme	0
+The captain ordered the old when and given of the rip.	all_random_rhyme	0
+The captain ordered the old hen and smitten of the flip.	all_random_rhyme	0
+The latin ordered the old ten and kitchen of the flip.	all_random_rhyme	0
+I saw a dog in my pyjamas	original	1
+A dog I saw in my pyjamas	inverse_object	1
+My pyjamas saw a dog in I	impossible	0
+I saw a dog in my sleepers	pp_synonym	1
+I saw a dog in my nightwear	pp_synonym	1
+I saw a dog in my jammies	pp_synonym	1
+I saw a dog in my jams	pp_synonym	1
+I saw a dog in my pjs	pp_synonym	1
+I saw a dog in my shoes	pp_synonym	1
+I saw a dog in my dress	pp_synonym	1
+I saw a dog in my socks	pp_synonym	1
+I saw a dog in my coat	pp_synonym	1
+I saw a dog in my nightshirt	pp_synonym	1
+I saw a dog in my table	pp_random	0
+I saw a dog in my bedroom	pp_random	0
+I saw a dog in my sleep	pp_random	0
+I saw a dog in my bed	pp_random	0
+I saw a dog in my black	pp_random	0
+I saw a dog in my bahamas	pp_random_rhyme	0
+I saw a dog in my traumas	pp_random_rhyme	0
+I saw a dog in my dioramas	pp_random_rhyme	0
+I saw a dog in my adamas	pp_random_rhyme	0
+I saw a dog in my llamas	pp_random_rhyme	0
+You saw a dog in my pyjamas	subj_synonym	1
+He saw a dog in my pyjamas	subj_synonym	1
+She saw a dog in my pyjamas	subj_synonym	1
+We saw a dog in my pyjamas	subj_synonym	1
+They saw a dog in my pyjamas	subj_synonym	1
+John saw a dog in my pyjamas	subj_synonym	1
+George saw a dog in my pyjamas	subj_synonym	1
+Alex saw a dog in my pyjamas	subj_synonym	1
+Marry saw a dog in my pyjamas	subj_synonym	1
+Jenny saw a dog in my pyjamas	subj_synonym	1
+Sophia saw a dog in my pyjamas	subj_synonym	1
+Anna saw a dog in my pyjamas	subj_synonym	1
+My mum saw a dog in my pyjamas	subj_synonym	1
+My father saw a dog in my pyjamas	subj_synonym	1
+The man saw a dog in my pyjamas	subj_synonym	1
+The woman saw a dog in my pyjamas	subj_synonym	1
+The astronaut saw a dog in my pyjamas	subj_synonym	1
+The neighbor saw a dog in my pyjamas	subj_synonym	1
+The painter saw a dog in my pyjamas	subj_synonym	1
+The doctor saw a dog in my pyjamas	subj_synonym	1
+An ice cream saw a dog in my pyjamas.	subj_random	0
+A volcano saw a dog in my pyjamas.	subj_random	0
+A tornado saw a dog in my pyjamas.	subj_random	0
+A pencil saw a dog in my pyjamas.	subj_random	0
+A lemon saw a dog in my pyjamas.	subj_random	0
+A sofa saw a dog in my pyjamas.	subj_random	0
+A bicycle saw a dog in my pyjamas.	subj_random	0
+A banana saw a dog in my pyjamas.	subj_random	0
+A telescope saw a dog in my pyjamas.	subj_random	0
+A sunflower saw a dog in my pyjamas.	subj_random	0
+A compass saw a dog in my pyjamas.	subj_random	0
+A peanut butter jar saw a dog in my pyjamas.	subj_random	0
+A stapler saw a dog in my pyjamas.	subj_random	0
+A snowflake saw a dog in my pyjamas.	subj_random	0
+Sky saw a dog in my pyjamas.	subj_random_rhyme	0
+Fly saw a dog in my pyjamas.	subj_random_rhyme	0
+By saw a dog in my pyjamas.	subj_random_rhyme	0
+High saw a dog in my pyjamas.	subj_random_rhyme	0
+Eye saw a dog in my pyjamas	subj_random_rhyme	0
+A yo-yo saw a dog in my pyjamas.	subj_random	0
+I saw a cat in my pyjamas	obj_synonym	1
+I saw a friend in my pyjamas	obj_synonym	1
+I saw a John in my pyjamas	obj_synonym	1
+I saw a Marry in my pyjamas	obj_synonym	1
+I saw a woman in my pyjamas	obj_synonym	1
+I saw a man in my pyjamas	obj_synonym	1
+I saw an elephant in my pyjamas	obj_synonym	1
+I saw a fox in my pyjamas	obj_synonym	1
+I saw a colleague in my pyjamas	obj_synonym	1
+I saw a person in my pyjamas	obj_synonym	1
+I saw a surfer in my pyjamas	obj_synonym	1
+I saw a nurse in my pyjamas.	obj_synonym	1
+I saw an astronaut in my pyjamas.	obj_synonym	1
+I saw a chef in my pyjamas.	obj_synonym	1
+I saw a plumber in my pyjamas.	obj_synonym	1
+I saw a musician in my pyjamas.	obj_synonym	1
+I saw a firefighter in my pyjamas.	obj_synonym	1
+I saw my cousin in my pyjamas.	obj_synonym	1
+I saw my sister in my pyjamas.	obj_synonym	1
+I saw my brother in my pyjamas.	obj_synonym	1
+I saw a movie in my pyjamas	obj_random	0
+I saw a play in my pyjamas	obj_random	0
+I saw a concert in my pyjamas	obj_random	0
+I saw a show in my pyjamas	obj_random	0
+I saw a rainbow in my pyjamas	obj_random	0
+I saw a telescope in my pyjamas	obj_random	0
+I saw a game in my pyjamas	obj_random	0
+I saw a video in my pyjamas	obj_random	0
+I saw a comedy in my pyjamas.	obj_random	0
+I saw a drama in my pyjamas.	obj_random	0
+I saw a dribble in my pyjamas.	obj_random	0
+I saw a fiddle in my pyjamas.	obj_random	0
+I saw a lollipop in my pyjamas.	obj_random	0
+I saw a raspberry in my pyjamas.	obj_random	0
+I saw a clamour in my pyjamas.	obj_random	0
+I saw a log in my pyjamas.	obj_random_rhyme	0
+I saw a jog in my pyjamas.	obj_random_rhyme	0
+I saw a hog in my pyjamas.	obj_random_rhyme	0
+I saw a fog in my pyjamas.	obj_random_rhyme	0
+I saw a bog in my pyjamas.	obj_random_rhyme	0
+You saw a cat in my pyjamas.	all_synonym	1
+He saw a friend in my pyjamas.	all_synonym	1
+She saw a John in my pyjamas.	all_synonym	1
+We saw a Marry in my pyjamas.	all_synonym	1
+They saw a woman in my pyjamas.	all_synonym	1
+Sophia saw a fox in my pyjamas.	all_synonym	1
+Anna saw a colleague in my pyjamas.	all_synonym	1
+The astronaut saw a plumber in my pyjamas.	all_synonym	1
+The neighbour saw a musician in my pyjamas.	all_synonym	1
+The doctor saw a firefighter in my pyjamas.	all_synonym	1
+The nurse saw my cousin in my pyjamas.	all_synonym	1
+You saw a cat in my sleepers.	all_synonym	1
+He saw a friend in my nightwear.	all_synonym	1
+She saw a John in my jammies.	all_synonym	1
+We saw a Marry in my jams.	all_synonym	1
+They saw a woman in my pjs.	all_synonym	1
+Sophia saw a fox in my shoes.	all_synonym	1
+She saw a cat in her sleepers.	all_synonym	1
+She saw a friend in her nightwear.	all_synonym	1
+He saw a John in his jammies.	all_synonym	1
+A sunflower saw a drama in my pyjamas.	all_random	0
+A compass saw a dribble in my pyjamas.	all_random	0
+A peanut butter jar saw a fiddle in my pyjamas.	all_random	0
+A telescope saw a lollipop in my pyjamas.	all_random	0
+A snowflake saw a raspberry in my pyjamas.	all_random	0
+A thunderstorm saw a clamour in my pyjamas.	all_random	0
+A symphony saw a storm in my pyjamas.	all_random	0
+A dance performance saw a dance party in my pyjamas.	all_random	0
+A ballet saw a pirouette in my pyjamas.	all_random	0
+A magic show saw a trick in my pyjamas.	all_random	0
+A roller coaster saw a thrill ride in my pyjamas.	all_random	0
+A fly saw a sky in my telescope.	all_random	0
+An ice cream saw a movie in my bedsheets.	all_random	0
+A volcano saw a play in my bedding.	all_random	0
+I saw a cat in my sleep,	all_random	0
+High saw a log in my pyjamas	all_random_rhyme	0
+Sky saw a fog in my pyjamas	all_random_rhyme	0
+Eye saw a jog in my pyjamas	all_random_rhyme	0
+High saw a log in my bahamas	all_random_rhyme	0
+High saw a log in my adamas	all_random_rhyme	0
+An enraged cow injured a farmer with an ax.	original	1
+A farmer was injured by an enraged cow with an ax.	inverse_object	0
+With farmer enraged an an injured ax cow a.	impossible	0
+An enraged cow injured a farmer with a knife.	pp_synonym	1
+An enraged cow injured a farmer with a hatchet.	pp_synonym	1
+An enraged cow injured a farmer with a chopper.	pp_synonym	1
+An enraged cow injured a farmer with a gun.	pp_synonym	1
+An enraged cow injured a farmer with a billhook.	pp_synonym	1
+An enraged cow injured a farmer with a halberd.	pp_synonym	1
+An enraged cow injured a farmer with a shovel.	pp_synonym	1
+An enraged cow injured a farmer with a hoe.	pp_synonym	1
+An enraged cow injured a farmer with a drill.	pp_synonym	1
+An enraged cow injured a farmer with a mattock.	pp_synonym	1
+An enraged cow injured a farmer with a pancake.	pp_random	0
+An enraged cow injured a farmer with a rubber duck.	pp_random	0
+An enraged cow injured a farmer with a waterfall.	pp_random	0
+An enraged cow injured a farmer with a spaghetti.	pp_random	0
+An enraged cow injured a farmer with a snowflake.	pp_random	0
+An enraged cow injured a farmer with a feather.	pp_random	0
+An enraged cow injured a farmer with a popsicle.	pp_random	0
+An enraged cow injured a farmer with a rainbow.	pp_random	0
+An enraged cow injured a farmer with a tax.	pp_random_rhyme	0
+An enraged cow injured a farmer with a pax.	pp_random_rhyme	0
+An enraged dog wounded a farmer with an ax.	subj_synonym	1
+A furious dog wounded a farmer with an ax.	subj_synonym	1
+An enraged cat wounded a farmer with an ax.	subj_synonym	1
+A furious cat wounded a farmer with an ax.	subj_synonym	1
+An enraged fox wounded a farmer with an ax.	subj_synonym	1
+A furious fox wounded a farmer with an ax.	subj_synonym	1
+An enraged pig wounded a farmer with an ax.	subj_synonym	1
+A furious pig wounded a farmer with an ax.	subj_synonym	1
+An enraged horse wounded a farmer with an ax.	subj_synonym	1
+A furious horse wounded a farmer with an ax.	subj_synonym	1
+An enraged taurus wounded a farmer with an ax.	subj_synonym	1
+A furious taurus wounded a farmer with an ax.	subj_synonym	1
+An enraged eagle wounded a farmer with an ax.	subj_synonym	1
+A furious eagle wounded a farmer with an ax.	subj_synonym	1
+A furious girl wounded a farmer with an ax.	subj_synonym	1
+A furious boy wounded a farmer with an ax.	subj_synonym	1
+A furious woman wounded a farmer with an ax.	subj_synonym	1
+A furious man wounded a farmer with an ax.	subj_synonym	1
+A furious doctor wounded a farmer with an ax.	subj_synonym	1
+A furious soldier wounded a farmer with an ax.	subj_synonym	1
+An enraged rainbow injured a farmer with an ax.	subj_random	0
+An enraged telescope injured a farmer with an ax.	subj_random	0
+An enraged curtain injured a farmer with an ax.	subj_random	0
+An enraged yellow injured a farmer with an ax.	subj_random	0
+An enraged phone injured a farmer with an ax.	subj_random	0
+An enraged bag injured a farmer with an ax.	subj_random	0
+An enraged unicorn injured a farmer with an ax.	subj_random	0
+An enraged toaster injured a farmer with an ax.	subj_random	0
+An enraged pineapple injured a farmer with an ax.	subj_random	0
+An enraged spaceship injured a farmer with an ax.	subj_random	0
+An enraged banana injured a farmer with an ax.	subj_random	0
+An enraged pillow injured a farmer with an ax.	subj_random	0
+An enraged donut injured a farmer with an ax.	subj_random	0
+An enraged rainbow injured a farmer with an ax.	subj_random	0
+An enraged typewriter injured a farmer with an ax.	subj_random	0
+An enraged allow injured a farmer with an ax.	subj_random_rhyme	0
+An enraged now injured a farmer with an ax. 	subj_random_rhyme	0
+An enraged bow injured a farmer with an ax.	subj_random_rhyme	0
+An enraged wow injured a farmer with an ax.	subj_random_rhyme	0
+An enraged how injured a farmer with an ax.	subj_random_rhyme	0
+An enraged cow injured a chef with an ax.	obj_synonym	1
+An enraged cow injured a magician with an ax.	obj_synonym	1
+An enraged cow injured a soldier with an ax.	obj_synonym	1
+An enraged cow injured a clown with an ax.	obj_synonym	1
+An enraged cow injured a pirate with an ax.	obj_synonym	1
+An enraged cow injured a librarian with an ax.	obj_synonym	1
+An enraged cow injured a robot with an ax.	obj_synonym	1
+An enraged cow injured an astronaut with an ax.	obj_synonym	1
+An enraged cow injured an agronomist with an ax.	obj_synonym	1
+An enraged cow injured a rancher with an ax.	obj_synonym	1
+An enraged cow injured a planter with an ax.	obj_synonym	1
+An enraged cow injured a smallholder with an ax.	obj_synonym	1
+An enraged cow injured a agriculturist with an ax.	obj_synonym	1
+An enraged cow injured a agriculturalist with an ax.	obj_synonym	1
+An enraged cow injured a detective with an ax.	obj_synonym	1
+An enraged cow injured a scientist with an ax.	obj_synonym	1
+An enraged cow injured a grower with an ax.	obj_synonym	1
+An enraged cow injured a grazier with an ax.	obj_synonym	1
+An enraged cow injured a boy with an ax.	obj_synonym	1
+An enraged cow injured a girl with an ax.	obj_synonym	1
+An enraged cow injured a rainbow with an ax.	obj_random	0
+An enraged cow injured a toaster with an ax.	obj_random	0
+An enraged cow injured a stapler with an ax.	obj_random	0
+An enraged cow injured a pillow with an ax.	obj_random	0
+An enraged cow injured a balloon with an ax.	obj_random	0
+An enraged cow injured a pineapple with an ax.	obj_random	0
+An enraged cow injured a keyboard with an ax.	obj_random	0
+An enraged cow injured a telescope with an ax.	obj_random	0
+An enraged cow injured a banana with an ax.	obj_random	0
+An enraged cow injured a shoe with an ax.	obj_random	0
+An enraged cow injured a brick with an ax.	obj_random	0
+An enraged cow injured a spoon with an ax.	obj_random	0
+An enraged cow injured a cloud with an ax.	obj_random	0
+An enraged cow injured a painting with an ax.	obj_random	0
+An enraged cow injured a camera with an ax.	obj_random	0
+An enraged cow injured a marker with an ax.	obj_random_rhyme	0
+An enraged cow injured a former with an ax.	obj_random_rhyme	0
+An enraged cow injured a harm her with an ax.	obj_random_rhyme	0
+An enraged cow injured an armour with an ax.	obj_random_rhyme	1
+An enraged cow injured a warmer with an ax.	obj_random_rhyme	0
+An enraged dog wounded a chef with an ax.	all_synonym	1
+A furious dog wounded a magician with an ax.	all_synonym	1
+An enraged cat wounded a soldier with an ax.	all_synonym	1
+A furious cat wounded a clown with an ax.	all_synonym	1
+An enraged fox wounded an agronomist with an ax.	all_synonym	1
+A furious fox wounded a librarian with an ax.	all_synonym	1
+An enraged pig wounded a robot with an ax.	all_synonym	1
+A furious cow wounded an astronaut with an ax.	all_synonym	1
+An enraged horse wounded an agronomist with an ax.	all_synonym	1
+A furious horse wounded a rancher with an ax.	all_synonym	1
+An enraged taurus wounded a planter with an ax.	all_synonym	1
+A furious taurus wounded a smallholder with an ax.	all_synonym	1
+An enraged eagle wounded an agriculturist with an ax.	all_synonym	1
+A furious eagle wounded a detective with an ax.	all_synonym	1
+A furious girl wounded a boy with an ax.	all_synonym	1
+A furious boy wounded a grower with an ax.	all_synonym	1
+A furious woman wounded a grazier with an ax.	all_synonym	1
+A furious man wounded a boy with an ax.	all_synonym	1
+A furious doctor wounded a scientist with an ax.	all_synonym	1
+A furious soldier wounded a farmer with an ax.	all_synonym	1
+An enraged rainbow injured a lamp with a knife.	all_random	0
+An enraged telescope injured a toaster with an ax.	all_random	0
+An enraged curtain injured a stapler with an ax.	all_random	0
+An enraged cow injured a pillow with an ax.	all_random	0
+An enraged phone injured a balloon with a telescope.	all_random	0
+An enraged bag injured a pineapple with an ax.	all_random	0
+An enraged unicorn injured a keyboard with an ax.	all_random	0
+An enraged toaster injured a mailbox with an at telescope.	all_random	0
+An enraged pineapple injured a banana with an ax.	all_random	0
+An enraged spaceship injured a shoe with an axe.	all_random	0
+An enraged cow injured a brick with an ax.	all_random	0
+An enraged pillow injured a spoon with a telescope.	all_random	0
+An enraged donut injured a cloud with an ax.	all_random	0
+An enraged rainbow injured a painting with an ax.	all_random	0
+An enraged typewriter injured a camera with an ax.	all_random	0
+An enraged how injured a farmer with a pax.	all_random_rhyme	0
+An enraged wow injured a former with an ax.	all_random_rhyme	0
+An enraged cow injured a harm her with a pax.	all_random_rhyme	0
+An enraged vow injured an armour with an ax.	all_random_rhyme	0
+An enraged allow injured a farmer with an tax.	all_random_rhyme	0
+The hospital is being sued by six foot doctors.	original	1
+Six foot doctors sue the hospital.	inverse_object	1
+Six hospital sue the doctors foot.	impossible	0
+The hospital is being sued by six podiatrists.	pp_synonym	0
+The hospital is being sued by six foot physicians.	pp_synonym	1
+The hospital is being sued by six foot medical practitioners.	pp_synonym	1
+The hospital is being sued by six foot surgeons.	pp_synonym	1
+The hospital is being sued by six foot practitioners.	pp_synonym	1
+The hospital is being sued by six chiropodists.	pp_synonym	0
+The hospital is being sued by six foot experts.	pp_synonym	1
+The hospital is being sued by six foot technicians.	pp_synonym	1
+The hospital is being sued by six foot docs.	pp_synonym	1
+The hospital is being sued by five foot doctors.	pp_synonym	1
+The hospital is being sued by seven foot surgeons.	pp_synonym	1
+The hospital is being sued by five foot surgeons.	pp_synonym	1
+The hospital is being sued by five foot nurses.	pp_synonym	1
+The hospital is being sued by seven foot experts.	pp_synonym	1
+The hospital is being sued by six foot nurses.	pp_synonym	1
+The hospital is being sued by six foot unicorns.	pp_random	0
+The hospital is being sued by six foot pineapples.	pp_random	0
+The hospital is being sued by six foot rainbows.	pp_random	0
+The hospital is being sued by six foot giants.	pp_random	0
+The hospital is being sued by six foot desks.	pp_random	0
+The hospital is being sued by six foot buildings.	pp_random	0
+The hospital is being sued by six foot hospitals.	pp_random	0
+The hospital is being sued by six foot schools.	pp_random	0
+The hospital is being sued by six foot telescopes.	pp_random	0
+The hospital is being sued by six foot pillows.	pp_random	0
+The hospital is being sued by six foot honors.	pp_random_rhyme	0
+The hospital is being sued by six foot raptors.	pp_random_rhyme	0
+The hospital is being sued by six foot horrors.	pp_random_rhyme	0
+The hospital is being sued by six foot auctors.	pp_random_rhyme	0
+The hospital is being sued by six foot authors.	pp_random_rhyme	0
+The clinic is being sued by six foot doctors.	subj_synonym	1
+The medical center is being sued by six foot doctors.	subj_synonym	1
+The infirmary is being sued by six foot doctors.	subj_synonym	1
+The healthcare facility is being sued by six foot doctors.	subj_synonym	1
+The sanatorium is being sued by six foot doctors.	subj_synonym	1
+The university is being sued by six foot doctors.	subj_synonym	1
+The health center is being sued by six foot doctors.	subj_synonym	1
+The nursing home is being sued by six foot doctors.	subj_synonym	1
+The medical institution is being sued by six foot doctors.	subj_synonym	1
+The ward is being sued by six foot doctors.	subj_synonym	1
+The asylum is being sued by six foot doctors.	subj_synonym	1
+The hospice is being sued by six foot doctors.	subj_synonym	1
+The medical clinic is being sued by six foot doctors.	subj_synonym	1
+The eldercare home is being sued by six foot doctors.	subj_synonym	1
+The school is being sued by six foot doctors.	subj_synonym	1
+The convalescent home is being sued by six foot doctors.	subj_synonym	1
+The health clinic is being sued by six foot doctors.	subj_synonym	1
+The healthcare institution is being sued by six foot doctors.	subj_synonym	1
+The trauma center is being sued by six foot doctors.	subj_synonym	1
+The urgent care center is being sued by six foot doctors.	subj_synonym	1
+The very is being sued by six foot doctors.	subj_random	0
+The waterfall is being sued by six foot doctors.	subj_random	0
+The throwback is being sued by six foot doctors.	subj_random	0
+The pineapple is being sued by six foot doctors.	subj_random	0
+The rainbow is being sued by six foot doctors.	subj_random	0
+The pillow is being sued by six foot doctors.	subj_random	0
+The pancake is being sued by six foot doctors.	subj_random	0
+The seashell is being sued by six foot doctors.	subj_random	0
+The unicorn is being sued by six foot doctors.	subj_random	0
+The mushroom is being sued by six foot doctors.	subj_random	0
+The comet is being sued by six foot doctors.	subj_random	0
+The snowflake is being sued by six foot doctors.	subj_random	0
+The jellyfish is being sued by six foot doctors.	subj_random	0
+The candle is being sued by six foot doctors.	subj_random	0
+The telescope is being sued by six foot doctors.	subj_random	0
+The verical is being sued by six foot doctors.	subj_random_rhyme	0
+The tropical is being sued by six foot doctors.	subj_random_rhyme	0
+The topical is being sued by six foot doctors.	subj_random_rhyme	0
+The typical is being sued by six foot doctors.	subj_random_rhyme	0
+The chemical is being sued by six foot doctors.	subj_random_rhyme	0
+The trauma center is being sued by six foot docs.	all_synonym	1
+The urgent care center is being sued by six foot nurses.	all_synonym	1
+The clinic is being sued by six podiatrists.	all_synonym	1
+The medical center is being sued by six foot physicians.	all_synonym	1
+The infirmary is being sued by six foot medical practitioners.	all_synonym	1
+The healthcare facility is being sued by six foot surgeons.	all_synonym	1
+The sanatorium is being sued by six foot practitioners.	all_synonym	1
+The university is being sued by six chiropodists.	all_synonym	1
+The health center is being sued by six foot experts.	all_synonym	1
+The nursing home is being sued by six foot technicians.	all_synonym	1
+The medical institution is being sued by six foot docs.	all_synonym	1
+The ward is being sued by six foot nurses.	all_synonym	1
+The asylum is being sued by six podiatrists.	all_synonym	1
+The hospice is being sued by six foot physicians.	all_synonym	1
+The medical clinic is being sued by six foot medical practitioners.	all_synonym	1
+The eldercare home is being sued by six foot surgeons.	all_synonym	1
+The school is being sued by six foot practitioners.	all_synonym	1
+The convalescent home is being sued by six chiropodists.	all_synonym	1
+The health clinic is being sued by six foot experts.	all_synonym	1
+The healthcare institution is being sued by six foot technicians.	all_synonym	1
+The very is being sued by six foot unicorns.	all_random	0
+The waterfall is being sued by six foot pineapples.	all_random	0
+The throwback is being sued by six foot rainbows.	all_random	0
+The pineapple is being sued by six foot giants.	all_random	0
+The rainbow is being sued by six foot desks.	all_random	0
+The pillow is being sued by six foot buildings.	all_random	0
+The pancake is being sued by six foot hospitals.	all_random	0
+The seashell is being sued by six foot schools.	all_random	0
+The center is being sued by six foot telescopes.	all_random	0
+The mushroom is being sued by six foot pillows.	all_random	0
+The comet is being sued by six foot unicorns.	all_random	0
+The snowflake is being sued by six foot pineapples.	all_random	0
+The jellyfish is being sued by six foot rainbows.	all_random	0
+The candle is being sued by six foot giants.	all_random	0
+The telescope is being sued by six foot desks.	all_random	0
+The vertical is being sued by six foot honors.	all_random_rhyme	0
+The tropical is being sued by six foot raptors.	all_random_rhyme	0
+The topical is being sued by six foot horrors.	all_random_rhyme	0
+The typical is being sued by six foot auctors.	all_random_rhyme	0
+The chemical is being sued by six foot authors.	all_random_rhyme	0
+Helen got lunch ready for her daughter wearing a summer dress.	original	1
+Her daughter got lunch ready for Helen wearing a summer dress.	inverse_object	1
+Summer daughter got Helen dress summer lunch ready for wearing a.	impossible	0
+Helen got lunch ready for her daughter wearing a summer dress.	pp_synonym	1
+Helen got lunch ready for her daughter wearing a summer shirt.	pp_synonym	1
+Helen got lunch ready for her daughter wearing a winter shirt.	pp_synonym	1
+Helen got lunch ready for her daughter wearing a winter dress.	pp_synonym	1
+Helen got lunch ready for her daughter wearing a winter scarf.	pp_synonym	1
+Helen got lunch ready for her daughter wearing a winter skirt.	pp_synonym	1
+Helen got lunch ready for her daughter wearing a fall jacket.	pp_synonym	1
+Helen got lunch ready for her daughter wearing a winter robe.	pp_synonym	1
+Helen got lunch ready for her daughter wearing a summer robe.	pp_synonym	1
+Helen got lunch ready for her daughter wearing a spring outfit.	pp_synonym	1
+Helen got lunch ready for her daughter wearing a summer hat.	pp_synonym	1
+Helen got lunch ready for her daughter wearing a winter hat.	pp_synonym	1
+Helen got lunch ready for her daughter wearing a summer jacket.	pp_synonym	1
+Helen got lunch ready for her daughter wearing a summer swimsuit.	pp_synonym	1
+Helen got lunch ready for her daughter wearing a winter coat.	pp_synonym	1
+Helen got lunch ready for her daughter wearing a clown costume.	pp_random	1
+Helen got lunch ready for her daughter wearing a firefighter uniform.	pp_random	1
+Helen got lunch ready for her daughter wearing a ninja costume.	pp_random	1
+Helen got lunch ready for her daughter wearing a spacesuit.	pp_random	1
+Helen got lunch ready for her daughter wearing a superhero cape.	pp_random	1
+Helen got lunch ready for her daughter wearing a wizard robe.	pp_random	1
+Helen got lunch ready for her daughter wearing a dinosaur costume.	pp_random	1
+Helen got lunch ready for her daughter wearing a cowboy hat.	pp_random	1
+Helen got lunch ready for her daughter wearing a mermaid tail.	pp_random	1
+Helen got lunch ready for her daughter wearing a summer telescope.	pp_random	0
+Helen got lunch ready for her daughter wearing a drummer vest.	pp_random_rhyme	1
+Helen got lunch ready for her daughter wearing a bummer tress.	pp_random_rhyme	1
+Helen got lunch ready for her daughter wearing a shutter address.	pp_random_rhyme	0
+Helen got lunch ready for her daughter wearing a runner mess.	pp_random_rhyme	0
+Helen got lunch ready for her daughter wearing a butter stress.	pp_random_rhyme	0
+The scientist got lunch ready for her daughter wearing a summer dress.	subj_synonym	1
+The teacher got lunch ready for her daughter wearing a summer dress.	subj_synonym	1
+The surfer got lunch ready for her daughter wearing a summer dress.	subj_synonym	1
+Grace got lunch ready for her daughter wearing a summer dress.	subj_synonym	1
+Ella got lunch ready for her daughter wearing a summer dress.	subj_synonym	1
+Ava got lunch ready for her daughter wearing a summer dress.	subj_synonym	1
+Nora got lunch ready for her daughter wearing a summer dress.	subj_synonym	1
+Zoe got lunch ready for her daughter wearing a summer dress.	subj_synonym	1
+Luna got lunch ready for her daughter wearing a summer dress.	subj_synonym	1
+Avery got lunch ready for her daughter wearing a summer dress.	subj_synonym	1
+The queen got lunch ready for her daughter wearing a summer dress.	subj_synonym	1
+Scarlett got lunch ready for her daughter wearing a summer dress.	subj_synonym	1
+Violet got lunch ready for her daughter wearing a summer dress.	subj_synonym	1
+Evelyn got lunch ready for her daughter wearing a summer dress.	subj_synonym	1
+Alice got lunch ready for her daughter wearing a summer dress.	subj_synonym	1
+The nurse got lunch ready for her daughter wearing a summer dress.	subj_synonym	1
+Mia got lunch ready for her daughter wearing a summer dress.	subj_synonym	1
+Harper got lunch ready for her daughter wearing a summer dress.	subj_synonym	1
+Sofia got lunch ready for her daughter wearing a summer dress.	subj_synonym	1
+The woman got lunch ready for her daughter wearing a summer dress.	subj_synonym	1
+Popsicle got lunch ready for her daughter wearing a summer dress.	subj_random	0
+Telescope got lunch ready for her daughter wearing a summer dress.	subj_random	0
+Thunderstorm got lunch ready for her daughter wearing a summer dress.	subj_random	0
+Whisper got lunch ready for her daughter wearing a summer dress.	subj_random	0
+Banana made lunch for her daughter wearing a summer dress.	subj_random	0
+Firecracker got lunch ready for her daughter wearing a summer dress.	subj_random	0
+Barplot got lunch ready for her daughter wearing a summer dress.	subj_random	0
+Tornado got lunch ready for her daughter wearing a summer dress.	subj_random	0
+Pizza prepared lunch for her daughter wearing a summer dress.	subj_random	0
+Pancake got lunch ready for her daughter wearing a summer dress.	subj_random	0
+Random got lunch ready for her daughter wearing a summer dress.	subj_random	0
+Laptop got lunch ready for her daughter wearing a summer dress.	subj_random	0
+Delete got lunch ready for her daughter wearing a summer dress.	subj_random	0
+Window got lunch ready for her daughter wearing a summer dress.	subj_random	0
+Quantum got lunch ready for her daughter wearing a summer dress.	subj_random	0
+Yellen got lunch ready for her daughter wearing a summer dress.	subj_random_rhyme	0
+Melon got lunch ready for her daughter wearing a summer dress.	subj_random_rhyme	0
+Ellen got lunch ready for her daughter wearing a summer dress.	subj_random_rhyme	1
+Cell in got lunch ready for her daughter wearing a summer dress.	subj_random_rhyme	0
+Eden got lunch ready for her daughter wearing a summer dress.	subj_random_rhyme	1
+Helen got lunch ready for her mother wearing a summer dress.	obj_synonym	1
+Helen got lunch ready for her sister wearing a summer dress.	obj_synonym	1
+Helen got lunch ready for her child wearing a summer dress.	obj_synonym	1
+Helen got lunch ready for her nephew wearing a summer dress.	obj_synonym	1
+Helen got lunch ready for her cousin wearing a summer dress.	obj_synonym	1
+Helen got lunch ready for her grandma wearing a summer dress.	obj_synonym	1
+Helen got lunch ready for her kid wearing a summer dress.	obj_synonym	1
+Helen got lunch ready for her girl wearing a summer dress.	obj_synonym	1
+Helen got lunch ready for her friend wearing a summer dress.	obj_synonym	1
+Helen got lunch ready for her friend wearing a summer dress.	obj_synonym	1
+Helen got lunch ready for her daughter-in-law wearing a summer dress.	obj_synonym	1
+Helen got lunch ready for her mum wearing a summer dress.	obj_synonym	1
+Helen got lunch ready for her baby wearing a summer dress.	obj_synonym	1
+Helen got lunch ready for her grandmother wearing a summer dress.	obj_synonym	1
+Helen got lunch ready for her aunt wearing a summer dress.	obj_synonym	1
+Helen got lunch ready for her godchild wearing a summer dress.	obj_synonym	1
+Helen got lunch ready for her bestfriend wearing a summer dress.	obj_synonym	1
+Helen got lunch ready for her cat wearing a summer dress.	obj_synonym	1
+Helen got lunch ready for her goddaughter wearing a summer dress.	obj_synonym	1
+Helen got lunch ready for her partner wearing a summer dress.	obj_synonym	1
+Helen got lunch ready for her chat wearing a summer dress.	obj_random	1
+Helen got lunch ready for her party wearing a summer dress.	obj_random	1
+Helen got lunch ready for her graduation wearing a summer dress.	obj_random	1
+Helen got lunch ready for her wedding wearing a summer dress.	obj_random	1
+Helen got lunch ready for her talk wearing a summer dress.	obj_random	1
+Helen got lunch ready for her walk wearing a summer dress.	obj_random	1
+Helen got lunch ready for her secret wearing a summer dress.	obj_random	1
+Helen got lunch ready for her mirror wearing a summer dress.	obj_random	1
+Helen got lunch ready for her music wearing a summer dress.	obj_random	1
+Helen got lunch ready for her time wearing a summer dress.	obj_random	1
+Helen got lunch ready for her rainbow wearing a summer dress.	obj_random	1
+Helen got lunch ready for her telescope wearing a summer dress.	obj_random	1
+Helen got lunch ready for her cloud wearing a summer dress.	obj_random	1
+Helen got lunch ready for her treasure wearing a summer dress.	obj_random	1
+Helen got lunch ready for her money wearing a summer dress.	obj_random	1
+Helen got lunch ready for her water wearing a summer dress.	obj_random_rhyme	1
+Helen got lunch ready for her softer wearing a summer dress.	obj_random_rhyme	1
+Helen got lunch ready for her shorter wearing a summer dress.	obj_random_rhyme	1
+Helen got lunch ready for her offer wearing a summer dress.	obj_random_rhyme	1
+Helen got lunch ready for her quarter wearing a summer dress.	obj_random_rhyme	1
+The woman got lunch ready for her mother wearing a winter shirt.	all_synonym	1
+The teacher got lunch ready for her sister wearing a fall jacket.	all_synonym	1
+The surfer got lunch ready for her child wearing a spring shirt.	all_synonym	1
+Grace got lunch ready for her nephew wearing a winter coat.	all_synonym	1
+Ella got lunch ready for her cousin wearing a summer shirt.	all_synonym	1
+Ava got lunch ready for her grandma wearing a summer coat.	all_synonym	1
+Nora got lunch ready for her kid wearing a winter outfit.	all_synonym	1
+Zoe got lunch ready for her girl wearing a summer jacket.	all_synonym	1
+Luna got lunch ready for her friend wearing a summer outfit.	all_synonym	1
+Avery got lunch ready for her friend wearing a spring outfit.	all_synonym	1
+The queen got lunch ready for her daughter-in-law wearing a summer shirt.	all_synonym	1
+Scarlett got lunch ready for her mum wearing a summer dress.	all_synonym	1
+Violet got lunch ready for her baby wearing a summer dress.	all_synonym	1
+Evelyn got lunch ready for her grandmother wearing a summer dress.	all_synonym	1
+Alice got lunch ready for her aunt wearing a summer dress.	all_synonym	1
+The nurse got lunch ready for her godchild wearing a summer robe.	all_synonym	1
+Mia got lunch ready for her bestfriend wearing a summer dress.	all_synonym	1
+Harper got lunch ready for her cat wearing a winter skirt.	all_synonym	1
+Sofia got lunch ready for her goddaughter wearing a spring jacket.	all_synonym	1
+The scientist got lunch ready for her partner wearing a fall outfit.	all_synonym	1
+Popsicle got lunch ready for her chat wearing a summer dress.	all_random	0
+Telescope got lunch ready for her party wearing a summer dress.	all_random	0
+Thunderstorm got lunch ready for her graduation wearing a summer dress.	all_random	0
+Whisper got lunch ready for her wedding wearing a summer dress.	all_random	0
+Banana made lunch for her talk wearing a summer dress.	all_random	0
+Firecracker got lunch ready for her walk wearing a summer dress.	all_random	0
+Barplot got lunch ready for her secret wearing a summer dress.	all_random	0
+Tornado got lunch ready for her mirror wearing a summer dress.	all_random	0
+Pizza prepared lunch for her music wearing a summer dress.	all_random	0
+Pancake got lunch ready for her time wearing a summer dress.	all_random	0
+Random got lunch ready for her rainbow wearing a summer dress.	all_random	0
+Laptop got lunch ready for her telescope wearing a summer dress.	all_random	0
+Delete got lunch ready for her cloud wearing a summer dress.	all_random	0
+Window got lunch ready for her treasure wearing a summer dress.	all_random	0
+Quantum got lunch ready for her money wearing a summer dress.	all_random	0
+Eden got lunch ready for her water wearing a summer mess.	all_random_rhyme	0
+Helen got lunch ready for her softer wearing a summer address.	all_random_rhyme	0
+Mellon got lunch ready for her shorter wearing a summer press.	all_random_rhyme	0
+Yellen got lunch ready for her offer wearing a summer dress.	all_random_rhyme	0
+Helen got lunch ready for her quarter wearing a summer press.	all_random_rhyme	0
